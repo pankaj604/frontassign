@@ -15,7 +15,7 @@ const SecondQuestion = () => {
     useEffect(() => {
       const loadBankData = async (bank) => {
         try {
-          const response = await import(`./files/${bank}.json`);
+          const response = await import(`../files/${bank}.json`);
           return response.default;
         } catch (error) {
           console.error(`Error loading data for ${bank}: ${error}`);
