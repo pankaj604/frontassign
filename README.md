@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Clone Repo And Start Script By Npm Start
 HELLO
 
 I have deliberately prioritized functionality over the aesthetic aspects of the user interface for two key reasons. First, my primary focus is to ensure that the project's target goals and functionalities are effectively implemented and fully operational. Second, given the absence of specific UI guidelines within the assignment, my approach has been to emphasize functionality and usability, ensuring that the application performs its intended tasks efficiently. While a polished user interface can enhance the user experience, my primary objective is to deliver a robust and fully functional solution that meets the assignment's requirements.
