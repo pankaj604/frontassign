@@ -1,0 +1,1402 @@
+[
+  {
+    "Date": "05/08/2023",
+    "Description": "Salary",
+    "Debit": 1167.85,
+    "Credit": "",
+    "Balance": 999998832.15
+  },
+  {
+    "Date": "06/08/2023",
+    "Description": "Salary",
+    "Debit": 1849.28,
+    "Credit": "",
+    "Balance": 999996982.87
+  },
+  {
+    "Date": "06/08/2023",
+    "Description": "Vendor Payment",
+    "Debit": 2465.55,
+    "Credit": "",
+    "Balance": 999994517.33
+  },
+  {
+    "Date": "06/08/2023",
+    "Description": "NEFT",
+    "Debit": 5777.13,
+    "Credit": "",
+    "Balance": 999988740.2
+  },
+  {
+    "Date": "06/08/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 1509.27,
+    "Balance": 999990249.47
+  },
+  {
+    "Date": "06/08/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 87.65,
+    "Balance": 999990337.12
+  },
+  {
+    "Date": "07/08/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 729.93,
+    "Balance": 999991067.05
+  },
+  {
+    "Date": "07/08/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 7874.92,
+    "Balance": 999998941.98
+  },
+  {
+    "Date": "07/08/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 5312.04,
+    "Balance": 1000004254.01
+  },
+  {
+    "Date": "07/08/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 3566.43,
+    "Balance": 1000007820.44
+  },
+  {
+    "Date": "07/08/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 7775.09,
+    "Balance": 1000015595.52
+  },
+  {
+    "Date": "08/08/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 2730.47,
+    "Balance": 1000018325.99
+  },
+  {
+    "Date": "08/08/2023",
+    "Description": "AWS bill",
+    "Debit": 8727.33,
+    "Credit": "",
+    "Balance": 1000009598.66
+  },
+  {
+    "Date": "08/08/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 3391.78,
+    "Balance": 1000012990.43
+  },
+  {
+    "Date": "08/08/2023",
+    "Description": "Salary",
+    "Debit": 7568.68,
+    "Credit": "",
+    "Balance": 1000005421.76
+  },
+  {
+    "Date": "08/08/2023",
+    "Description": "Salry",
+    "Debit": 6908.2,
+    "Credit": "",
+    "Balance": 999998513.56
+  },
+  {
+    "Date": "09/08/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 2902.67,
+    "Balance": 1000001416.23
+  },
+  {
+    "Date": "09/08/2023",
+    "Description": "NEFT",
+    "Debit": 6829.64,
+    "Credit": "",
+    "Balance": 999994586.58
+  },
+  {
+    "Date": "09/08/2023",
+    "Description": "AWS bill",
+    "Debit": 222.53,
+    "Credit": "",
+    "Balance": 999994364.05
+  },
+  {
+    "Date": "09/08/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 7807.07,
+    "Balance": 1000002171.13
+  },
+  {
+    "Date": "09/08/2023",
+    "Description": "Salary",
+    "Debit": 8577.63,
+    "Credit": "",
+    "Balance": 999993593.5
+  },
+  {
+    "Date": "10/08/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 7609.92,
+    "Balance": 1000001203.42
+  },
+  {
+    "Date": "10/08/2023",
+    "Description": "Salry",
+    "Debit": 2010.26,
+    "Credit": "",
+    "Balance": 999999193.16
+  },
+  {
+    "Date": "10/08/2023",
+    "Description": "NEFT",
+    "Debit": 1203.6,
+    "Credit": "",
+    "Balance": 999997989.56
+  },
+  {
+    "Date": "10/08/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 5854.98,
+    "Balance": 1000003844.55
+  },
+  {
+    "Date": "10/08/2023",
+    "Description": "facebook ADs",
+    "Debit": 4584.86,
+    "Credit": "",
+    "Balance": 999999259.68
+  },
+  {
+    "Date": "11/08/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 9921.55,
+    "Balance": 1000009181.24
+  },
+  {
+    "Date": "11/08/2023",
+    "Description": "Salry",
+    "Debit": 9712.39,
+    "Credit": "",
+    "Balance": 999999468.85
+  },
+  {
+    "Date": "11/08/2023",
+    "Description": "Salry",
+    "Debit": 3270.88,
+    "Credit": "",
+    "Balance": 999996197.97
+  },
+  {
+    "Date": "11/08/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 2128.83,
+    "Balance": 999998326.8
+  },
+  {
+    "Date": "11/08/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 8636.92,
+    "Balance": 1000006963.72
+  },
+  {
+    "Date": "12/08/2023",
+    "Description": "Salary",
+    "Debit": 9672.64,
+    "Credit": "",
+    "Balance": 999997291.08
+  },
+  {
+    "Date": "12/08/2023",
+    "Description": "Vendor Payment",
+    "Debit": 3716.81,
+    "Credit": "",
+    "Balance": 999993574.27
+  },
+  {
+    "Date": "12/08/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 4418.28,
+    "Balance": 999997992.55
+  },
+  {
+    "Date": "12/08/2023",
+    "Description": "CHEQUE DEPOSIT",
+    "Debit": "",
+    "Credit": 3701.14,
+    "Balance": 1000001693.69
+  },
+  {
+    "Date": "12/08/2023",
+    "Description": "Salry",
+    "Debit": 2907.29,
+    "Credit": "",
+    "Balance": 999998786.4
+  },
+  {
+    "Date": "13/08/2023",
+    "Description": "Google Ads",
+    "Debit": 4464.06,
+    "Credit": "",
+    "Balance": 999994322.35
+  },
+  {
+    "Date": "13/08/2023",
+    "Description": "Vendor Payment",
+    "Debit": 9363.78,
+    "Credit": "",
+    "Balance": 999984958.57
+  },
+  {
+    "Date": "13/08/2023",
+    "Description": "Salry",
+    "Debit": 8410.77,
+    "Credit": "",
+    "Balance": 999976547.8
+  },
+  {
+    "Date": "13/08/2023",
+    "Description": "NEFT",
+    "Debit": 6857.93,
+    "Credit": "",
+    "Balance": 999969689.87
+  },
+  {
+    "Date": "13/08/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 6155.8,
+    "Balance": 999975845.67
+  },
+  {
+    "Date": "14/08/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 8740.87,
+    "Balance": 999984586.53
+  },
+  {
+    "Date": "14/08/2023",
+    "Description": "Salary",
+    "Debit": 3266.42,
+    "Credit": "",
+    "Balance": 999981320.11
+  },
+  {
+    "Date": "14/08/2023",
+    "Description": "TRANSFER",
+    "Debit": 1528.54,
+    "Credit": "",
+    "Balance": 999979791.56
+  },
+  {
+    "Date": "14/08/2023",
+    "Description": "Vendor Payment",
+    "Debit": 6086.07,
+    "Credit": "",
+    "Balance": 999973705.5
+  },
+  {
+    "Date": "14/08/2023",
+    "Description": "Salry",
+    "Debit": 3689.78,
+    "Credit": "",
+    "Balance": 999970015.72
+  },
+  {
+    "Date": "15/08/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 2701.31,
+    "Balance": 999972717.02
+  },
+  {
+    "Date": "15/08/2023",
+    "Description": "AWS bill",
+    "Debit": 3378.79,
+    "Credit": "",
+    "Balance": 999969338.23
+  },
+  {
+    "Date": "15/08/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 9240.89,
+    "Balance": 999978579.13
+  },
+  {
+    "Date": "15/08/2023",
+    "Description": "Salry",
+    "Debit": 7207.08,
+    "Credit": "",
+    "Balance": 999971372.04
+  },
+  {
+    "Date": "15/08/2023",
+    "Description": "NEFT",
+    "Debit": 1910.13,
+    "Credit": "",
+    "Balance": 999969461.91
+  },
+  {
+    "Date": "16/08/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 3241.46,
+    "Balance": 999972703.37
+  },
+  {
+    "Date": "16/08/2023",
+    "Description": "CHEQUE DEPOSIT",
+    "Debit": "",
+    "Credit": 3757.52,
+    "Balance": 999976460.89
+  },
+  {
+    "Date": "16/08/2023",
+    "Description": "Salry",
+    "Debit": 4908.02,
+    "Credit": "",
+    "Balance": 999971552.87
+  },
+  {
+    "Date": "16/08/2023",
+    "Description": "CHEQUE DEPOSIT",
+    "Debit": "",
+    "Credit": 6372.4,
+    "Balance": 999977925.27
+  },
+  {
+    "Date": "16/08/2023",
+    "Description": "Google Ads",
+    "Debit": 3302.49,
+    "Credit": "",
+    "Balance": 999974622.78
+  },
+  {
+    "Date": "17/08/2023",
+    "Description": "Salary",
+    "Debit": 4061.55,
+    "Credit": "",
+    "Balance": 999970561.23
+  },
+  {
+    "Date": "17/08/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 7240.76,
+    "Balance": 999977802
+  },
+  {
+    "Date": "17/08/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 6299.71,
+    "Balance": 999984101.7
+  },
+  {
+    "Date": "17/08/2023",
+    "Description": "Google Ads",
+    "Debit": 3961.02,
+    "Credit": "",
+    "Balance": 999980140.69
+  },
+  {
+    "Date": "17/08/2023",
+    "Description": "facebook ADs",
+    "Debit": 3436.13,
+    "Credit": "",
+    "Balance": 999976704.56
+  },
+  {
+    "Date": "18/08/2023",
+    "Description": "CHEQUE DEPOSIT",
+    "Debit": "",
+    "Credit": 1101.36,
+    "Balance": 999977805.91
+  },
+  {
+    "Date": "18/08/2023",
+    "Description": "Google Ads",
+    "Debit": 170.82,
+    "Credit": "",
+    "Balance": 999977635.1
+  },
+  {
+    "Date": "18/08/2023",
+    "Description": "Google Ads",
+    "Debit": 1867.76,
+    "Credit": "",
+    "Balance": 999975767.34
+  },
+  {
+    "Date": "18/08/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 3285.64,
+    "Balance": 999979052.98
+  },
+  {
+    "Date": "18/08/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 2596.87,
+    "Balance": 999981649.85
+  },
+  {
+    "Date": "19/08/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 1430.05,
+    "Balance": 999983079.9
+  },
+  {
+    "Date": "19/08/2023",
+    "Description": "Salary",
+    "Debit": 4544.35,
+    "Credit": "",
+    "Balance": 999978535.54
+  },
+  {
+    "Date": "19/08/2023",
+    "Description": "Vendor Payment",
+    "Debit": 3125.06,
+    "Credit": "",
+    "Balance": 999975410.48
+  },
+  {
+    "Date": "19/08/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 1441.33,
+    "Balance": 999976851.82
+  },
+  {
+    "Date": "19/08/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 2203.23,
+    "Balance": 999979055.05
+  },
+  {
+    "Date": "20/08/2023",
+    "Description": "Salry",
+    "Debit": 7792.72,
+    "Credit": "",
+    "Balance": 999971262.33
+  },
+  {
+    "Date": "20/08/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 7271.52,
+    "Balance": 999978533.85
+  },
+  {
+    "Date": "20/08/2023",
+    "Description": "NEFT",
+    "Debit": 39.29,
+    "Credit": "",
+    "Balance": 999978494.56
+  },
+  {
+    "Date": "20/08/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 5478.89,
+    "Balance": 999983973.45
+  },
+  {
+    "Date": "20/08/2023",
+    "Description": "Google Ads",
+    "Debit": 3617.41,
+    "Credit": "",
+    "Balance": 999980356.03
+  },
+  {
+    "Date": "21/08/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 5316.95,
+    "Balance": 999985672.98
+  },
+  {
+    "Date": "21/08/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 1763.93,
+    "Balance": 999987436.91
+  },
+  {
+    "Date": "21/08/2023",
+    "Description": "Vendor Payment",
+    "Debit": 3662.97,
+    "Credit": "",
+    "Balance": 999983773.95
+  },
+  {
+    "Date": "21/08/2023",
+    "Description": "Salary",
+    "Debit": 4299.53,
+    "Credit": "",
+    "Balance": 999979474.42
+  },
+  {
+    "Date": "21/08/2023",
+    "Description": "Google Ads",
+    "Debit": 7735.38,
+    "Credit": "",
+    "Balance": 999971739.03
+  },
+  {
+    "Date": "22/08/2023",
+    "Description": "TRANSFER",
+    "Debit": 5750.21,
+    "Credit": "",
+    "Balance": 999965988.83
+  },
+  {
+    "Date": "22/08/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 8531.13,
+    "Balance": 999974519.96
+  },
+  {
+    "Date": "22/08/2023",
+    "Description": "Vendor Payment",
+    "Debit": 1630.25,
+    "Credit": "",
+    "Balance": 999972889.71
+  },
+  {
+    "Date": "22/08/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 4012.64,
+    "Balance": 999976902.35
+  },
+  {
+    "Date": "22/08/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 7944.91,
+    "Balance": 999984847.26
+  },
+  {
+    "Date": "23/08/2023",
+    "Description": "CHEQUE DEPOSIT",
+    "Debit": "",
+    "Credit": 4786.89,
+    "Balance": 999989634.15
+  },
+  {
+    "Date": "23/08/2023",
+    "Description": "CHEQUE DEPOSIT",
+    "Debit": "",
+    "Credit": 9622.83,
+    "Balance": 999999256.98
+  },
+  {
+    "Date": "23/08/2023",
+    "Description": "TRANSFER",
+    "Debit": 4143.68,
+    "Credit": "",
+    "Balance": 999995113.3
+  },
+  {
+    "Date": "23/08/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 3383.36,
+    "Balance": 999998496.66
+  },
+  {
+    "Date": "23/08/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 1428.39,
+    "Balance": 999999925.05
+  },
+  {
+    "Date": "24/08/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 8204.99,
+    "Balance": 1000008130.04
+  },
+  {
+    "Date": "24/08/2023",
+    "Description": "CHEQUE DEPOSIT",
+    "Debit": "",
+    "Credit": 7976.08,
+    "Balance": 1000016106.12
+  },
+  {
+    "Date": "24/08/2023",
+    "Description": "TRANSFER",
+    "Debit": 3596.41,
+    "Credit": "",
+    "Balance": 1000012509.71
+  },
+  {
+    "Date": "24/08/2023",
+    "Description": "Salry",
+    "Debit": 1762.22,
+    "Credit": "",
+    "Balance": 1000010747.5
+  },
+  {
+    "Date": "24/08/2023",
+    "Description": "NEFT",
+    "Debit": 2329.83,
+    "Credit": "",
+    "Balance": 1000008417.67
+  },
+  {
+    "Date": "25/08/2023",
+    "Description": "Salry",
+    "Debit": 4374.13,
+    "Credit": "",
+    "Balance": 1000004043.54
+  },
+  {
+    "Date": "25/08/2023",
+    "Description": "facebook ADs",
+    "Debit": 9995.83,
+    "Credit": "",
+    "Balance": 999994047.71
+  },
+  {
+    "Date": "25/08/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 2510.99,
+    "Balance": 999996558.7
+  },
+  {
+    "Date": "25/08/2023",
+    "Description": "facebook ADs",
+    "Debit": 2353.4,
+    "Credit": "",
+    "Balance": 999994205.3
+  },
+  {
+    "Date": "25/08/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 4075.96,
+    "Balance": 999998281.26
+  },
+  {
+    "Date": "26/08/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 9494.49,
+    "Balance": 1000007775.75
+  },
+  {
+    "Date": "26/08/2023",
+    "Description": "Google Ads",
+    "Debit": 8491.71,
+    "Credit": "",
+    "Balance": 999999284.04
+  },
+  {
+    "Date": "26/08/2023",
+    "Description": "NEFT",
+    "Debit": 406.33,
+    "Credit": "",
+    "Balance": 999998877.71
+  },
+  {
+    "Date": "26/08/2023",
+    "Description": "AWS bill",
+    "Debit": 5024.67,
+    "Credit": "",
+    "Balance": 999993853.04
+  },
+  {
+    "Date": "26/08/2023",
+    "Description": "NEFT",
+    "Debit": 4314.93,
+    "Credit": "",
+    "Balance": 999989538.11
+  },
+  {
+    "Date": "27/08/2023",
+    "Description": "TRANSFER",
+    "Debit": 5482.33,
+    "Credit": "",
+    "Balance": 999984055.78
+  },
+  {
+    "Date": "27/08/2023",
+    "Description": "CHEQUE DEPOSIT",
+    "Debit": "",
+    "Credit": 3149.92,
+    "Balance": 999987205.71
+  },
+  {
+    "Date": "27/08/2023",
+    "Description": "CHEQUE DEPOSIT",
+    "Debit": "",
+    "Credit": 9469.44,
+    "Balance": 999996675.14
+  },
+  {
+    "Date": "27/08/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 6914.89,
+    "Balance": 1000003590.04
+  },
+  {
+    "Date": "27/08/2023",
+    "Description": "Vendor Payment",
+    "Debit": 5.14,
+    "Credit": "",
+    "Balance": 1000003584.9
+  },
+  {
+    "Date": "28/08/2023",
+    "Description": "AWS bill",
+    "Debit": 1681.28,
+    "Credit": "",
+    "Balance": 1000001903.62
+  },
+  {
+    "Date": "28/08/2023",
+    "Description": "Vendor Payment",
+    "Debit": 5788.65,
+    "Credit": "",
+    "Balance": 999996114.97
+  },
+  {
+    "Date": "28/08/2023",
+    "Description": "NEFT",
+    "Debit": 8389.23,
+    "Credit": "",
+    "Balance": 999987725.73
+  },
+  {
+    "Date": "28/08/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 123.01,
+    "Balance": 999987848.75
+  },
+  {
+    "Date": "28/08/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 9371.54,
+    "Balance": 999997220.29
+  },
+  {
+    "Date": "29/08/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 2607.3,
+    "Balance": 999999827.59
+  },
+  {
+    "Date": "29/08/2023",
+    "Description": "Salary",
+    "Debit": 4972.89,
+    "Credit": "",
+    "Balance": 999994854.69
+  },
+  {
+    "Date": "29/08/2023",
+    "Description": "AWS bill",
+    "Debit": 3161.89,
+    "Credit": "",
+    "Balance": 999991692.81
+  },
+  {
+    "Date": "29/08/2023",
+    "Description": "facebook ADs",
+    "Debit": 4069.44,
+    "Credit": "",
+    "Balance": 999987623.36
+  },
+  {
+    "Date": "29/08/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 2870.38,
+    "Balance": 999990493.74
+  },
+  {
+    "Date": "30/08/2023",
+    "Description": "Salry",
+    "Debit": 797.1,
+    "Credit": "",
+    "Balance": 999989696.64
+  },
+  {
+    "Date": "30/08/2023",
+    "Description": "NEFT",
+    "Debit": 3554.69,
+    "Credit": "",
+    "Balance": 999986141.95
+  },
+  {
+    "Date": "30/08/2023",
+    "Description": "NEFT",
+    "Debit": 7030.32,
+    "Credit": "",
+    "Balance": 999979111.63
+  },
+  {
+    "Date": "30/08/2023",
+    "Description": "NEFT",
+    "Debit": 7484.91,
+    "Credit": "",
+    "Balance": 999971626.72
+  },
+  {
+    "Date": "30/08/2023",
+    "Description": "Google Ads",
+    "Debit": 3804.24,
+    "Credit": "",
+    "Balance": 999967822.48
+  },
+  {
+    "Date": "31/08/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 2403.07,
+    "Balance": 999970225.56
+  },
+  {
+    "Date": "31/08/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 2970.82,
+    "Balance": 999973196.37
+  },
+  {
+    "Date": "31/08/2023",
+    "Description": "Google Ads",
+    "Debit": 242.42,
+    "Credit": "",
+    "Balance": 999972953.96
+  },
+  {
+    "Date": "31/08/2023",
+    "Description": "AWS bill",
+    "Debit": 6661.69,
+    "Credit": "",
+    "Balance": 999966292.26
+  },
+  {
+    "Date": "31/08/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 5891.09,
+    "Balance": 999972183.35
+  },
+  {
+    "Date": "01/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 5935.51,
+    "Balance": 999978118.86
+  },
+  {
+    "Date": "01/09/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 4025.15,
+    "Balance": 999982144.01
+  },
+  {
+    "Date": "01/09/2023",
+    "Description": "NEFT",
+    "Debit": 3026.38,
+    "Credit": "",
+    "Balance": 999979117.63
+  },
+  {
+    "Date": "01/09/2023",
+    "Description": "TRANSFER",
+    "Debit": 8343.84,
+    "Credit": "",
+    "Balance": 999970773.78
+  },
+  {
+    "Date": "01/09/2023",
+    "Description": "Salary",
+    "Debit": 3333.63,
+    "Credit": "",
+    "Balance": 999967440.15
+  },
+  {
+    "Date": "02/09/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 7832.63,
+    "Balance": 999975272.79
+  },
+  {
+    "Date": "02/09/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 6062.91,
+    "Balance": 999981335.7
+  },
+  {
+    "Date": "02/09/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 6696.17,
+    "Balance": 999988031.87
+  },
+  {
+    "Date": "02/09/2023",
+    "Description": "Vendor Payment",
+    "Debit": 9645.96,
+    "Credit": "",
+    "Balance": 999978385.91
+  },
+  {
+    "Date": "02/09/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 1988.6,
+    "Balance": 999980374.52
+  },
+  {
+    "Date": "03/09/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 6229.95,
+    "Balance": 999986604.46
+  },
+  {
+    "Date": "03/09/2023",
+    "Description": "Salary",
+    "Debit": 3694.13,
+    "Credit": "",
+    "Balance": 999982910.34
+  },
+  {
+    "Date": "03/09/2023",
+    "Description": "AWS bill",
+    "Debit": 3879.47,
+    "Credit": "",
+    "Balance": 999979030.86
+  },
+  {
+    "Date": "03/09/2023",
+    "Description": "Salry",
+    "Debit": 4261.47,
+    "Credit": "",
+    "Balance": 999974769.39
+  },
+  {
+    "Date": "03/09/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 3836.02,
+    "Balance": 999978605.41
+  },
+  {
+    "Date": "04/09/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 8702.8,
+    "Balance": 999987308.21
+  },
+  {
+    "Date": "04/09/2023",
+    "Description": "TRANSFER",
+    "Debit": 4907.21,
+    "Credit": "",
+    "Balance": 999982401
+  },
+  {
+    "Date": "04/09/2023",
+    "Description": "TRANSFER",
+    "Debit": 3062.92,
+    "Credit": "",
+    "Balance": 999979338.09
+  },
+  {
+    "Date": "04/09/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 2642.56,
+    "Balance": 999981980.65
+  },
+  {
+    "Date": "04/09/2023",
+    "Description": "facebook ADs",
+    "Debit": 4009.29,
+    "Credit": "",
+    "Balance": 999977971.36
+  },
+  {
+    "Date": "05/09/2023",
+    "Description": "Google Ads",
+    "Debit": 3291.24,
+    "Credit": "",
+    "Balance": 999974680.12
+  },
+  {
+    "Date": "05/09/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 9528.45,
+    "Balance": 999984208.57
+  },
+  {
+    "Date": "05/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 3897.11,
+    "Balance": 999988105.68
+  },
+  {
+    "Date": "05/09/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 6687.65,
+    "Balance": 999994793.33
+  },
+  {
+    "Date": "05/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 272.43,
+    "Balance": 999995065.76
+  },
+  {
+    "Date": "06/09/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 2269.94,
+    "Balance": 999997335.7
+  },
+  {
+    "Date": "06/09/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 4745.88,
+    "Balance": 1000002081.58
+  },
+  {
+    "Date": "06/09/2023",
+    "Description": "NEFT",
+    "Debit": 4772.38,
+    "Credit": "",
+    "Balance": 999997309.2
+  },
+  {
+    "Date": "06/09/2023",
+    "Description": "Vendor Payment",
+    "Debit": 2589.12,
+    "Credit": "",
+    "Balance": 999994720.07
+  },
+  {
+    "Date": "06/09/2023",
+    "Description": "Vendor Payment",
+    "Debit": 1431.97,
+    "Credit": "",
+    "Balance": 999993288.1
+  },
+  {
+    "Date": "07/09/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 9467.2,
+    "Balance": 1000002755.3
+  },
+  {
+    "Date": "07/09/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 7714.12,
+    "Balance": 1000010469.43
+  },
+  {
+    "Date": "07/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 7576.45,
+    "Balance": 1000018045.87
+  },
+  {
+    "Date": "07/09/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 9716.83,
+    "Balance": 1000027762.7
+  },
+  {
+    "Date": "07/09/2023",
+    "Description": "Google Ads",
+    "Debit": 5062.02,
+    "Credit": "",
+    "Balance": 1000022700.68
+  },
+  {
+    "Date": "08/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 451.36,
+    "Balance": 1000023152.04
+  },
+  {
+    "Date": "08/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 8059.37,
+    "Balance": 1000031211.4
+  },
+  {
+    "Date": "08/09/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 8572.74,
+    "Balance": 1000039784.14
+  },
+  {
+    "Date": "08/09/2023",
+    "Description": "facebook ADs",
+    "Debit": 67.85,
+    "Credit": "",
+    "Balance": 1000039716.29
+  },
+  {
+    "Date": "08/09/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 140.55,
+    "Balance": 1000039856.84
+  },
+  {
+    "Date": "09/09/2023",
+    "Description": "NEFT",
+    "Debit": 2954.97,
+    "Credit": "",
+    "Balance": 1000036901.87
+  },
+  {
+    "Date": "09/09/2023",
+    "Description": "NEFT",
+    "Debit": 7301.75,
+    "Credit": "",
+    "Balance": 1000029600.13
+  },
+  {
+    "Date": "09/09/2023",
+    "Description": "Vendor Payment",
+    "Debit": 3304.07,
+    "Credit": "",
+    "Balance": 1000026296.06
+  },
+  {
+    "Date": "09/09/2023",
+    "Description": "TRANSFER",
+    "Debit": "",
+    "Credit": 2918.58,
+    "Balance": 1000029214.64
+  },
+  {
+    "Date": "09/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 164.21,
+    "Balance": 1000029378.85
+  },
+  {
+    "Date": "10/09/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 3595.4,
+    "Balance": 1000032974.25
+  },
+  {
+    "Date": "10/09/2023",
+    "Description": "Vendor Payment",
+    "Debit": 4576.91,
+    "Credit": "",
+    "Balance": 1000028397.33
+  },
+  {
+    "Date": "10/09/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 4397.25,
+    "Balance": 1000032794.59
+  },
+  {
+    "Date": "10/09/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 766.47,
+    "Balance": 1000033561.06
+  },
+  {
+    "Date": "10/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 1363.32,
+    "Balance": 1000034924.37
+  },
+  {
+    "Date": "11/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 5061.52,
+    "Balance": 1000039985.9
+  },
+  {
+    "Date": "11/09/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 7046.48,
+    "Balance": 1000047032.37
+  },
+  {
+    "Date": "11/09/2023",
+    "Description": "NEFT",
+    "Debit": "",
+    "Credit": 6231.92,
+    "Balance": 1000053264.3
+  },
+  {
+    "Date": "11/09/2023",
+    "Description": "CHEQUE DEPOSIT",
+    "Debit": "",
+    "Credit": 767.63,
+    "Balance": 1000054031.93
+  },
+  {
+    "Date": "11/09/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 4929.08,
+    "Balance": 1000058961.01
+  },
+  {
+    "Date": "12/09/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 9538.84,
+    "Balance": 1000068499.85
+  },
+  {
+    "Date": "12/09/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 8946.17,
+    "Balance": 1000077446.02
+  },
+  {
+    "Date": "12/09/2023",
+    "Description": "Razorpay",
+    "Debit": "",
+    "Credit": 4168.23,
+    "Balance": 1000081614.25
+  },
+  {
+    "Date": "12/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 881.34,
+    "Balance": 1000082495.58
+  },
+  {
+    "Date": "12/09/2023",
+    "Description": "Salary",
+    "Debit": 1180.33,
+    "Credit": "",
+    "Balance": 1000081315.25
+  },
+  {
+    "Date": "13/09/2023",
+    "Description": "Cash Deposit",
+    "Debit": "",
+    "Credit": 2308.14,
+    "Balance": 1000083623.39
+  },
+  {
+    "Date": "13/09/2023",
+    "Description": "CHEQUE DEPOSIT",
+    "Debit": "",
+    "Credit": 3514.91,
+    "Balance": 1000087138.3
+  },
+  {
+    "Date": "13/09/2023",
+    "Description": "Google Ads",
+    "Debit": 8795.23,
+    "Credit": "",
+    "Balance": 1000078343.07
+  },
+  {
+    "Date": "13/09/2023",
+    "Description": "AWS bill",
+    "Debit": 7279.53,
+    "Credit": "",
+    "Balance": 1000071063.54
+  },
+  {
+    "Date": "13/09/2023",
+    "Description": "Payment Gateway",
+    "Debit": "",
+    "Credit": 2151.98,
+    "Balance": 1000073215.53
+  },
+  {
+    "Date": "14/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 7898.42,
+    "Balance": 1000081113.94
+  },
+  {
+    "Date": "14/09/2023",
+    "Description": "facebook ADs",
+    "Debit": 4493.46,
+    "Credit": "",
+    "Balance": 1000076620.48
+  },
+  {
+    "Date": "14/09/2023",
+    "Description": "NEFT",
+    "Debit": 5013.67,
+    "Credit": "",
+    "Balance": 1000071606.81
+  },
+  {
+    "Date": "14/09/2023",
+    "Description": "NEFTIN",
+    "Debit": "",
+    "Credit": 2404.87,
+    "Balance": 1000074011.68
+  }
+]
