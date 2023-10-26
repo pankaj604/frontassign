@@ -87,14 +87,14 @@ const SecondQuestion = () => {
       return `#${Math.floor(Math.random() * 16777215).toString(16)}`;
     };
   
-    // Generate data for the line chart
+
     const getChartData = () => {
       const chartData = {
         labels: searchResults.map((entry) => entry.Date),
         datasets: [],
       };
   
-      // Create a dataset for each category
+    
       categories.split(',').map((category) => {
         const data = searchResults.map((entry) => {
           const categoryData = entry.Description.toLowerCase().includes(category.trim().toLowerCase())
@@ -114,8 +114,7 @@ const SecondQuestion = () => {
   
       return chartData;
     };
-  
-    // Function to create a line chart using plain JavaScript
+
     useEffect(() => {
       if (categories && searchResults.length > 0) {
         const chartData = getChartData();

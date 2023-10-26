@@ -22,7 +22,7 @@ const Statements = ({ onBanksSelected }) => {
       }
     };
 
-    // Load the JSON data for selected banks
+
     const loadSelectedBankData = async () => {
       const bankDataPromises = selectedBanks.map((bank) => loadBankData(bank));
       const bankData = await Promise.all(bankDataPromises);
